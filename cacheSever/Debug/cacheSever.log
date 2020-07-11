@@ -1,0 +1,9 @@
+﻿  cacheSever.cpp
+d:\vs项目\cachesever\cachesever\cachesever.cpp(17): warning C4005: “_CRT_SECURE_NO_WARINGS”: 宏重定义
+  d:\vs项目\cachesever\cachesever\cachesever.cpp: note: 参见“_CRT_SECURE_NO_WARINGS”的前一个定义
+d:\vs项目\cachesever\cachesever\cachesever.cpp(82): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+d:\vs项目\cachesever\cachesever\cachesever.cpp(83): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+d:\vs项目\cachesever\cachesever\cachesever.cpp(97): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+d:\vs项目\cachesever\cachesever\cachesever.cpp(99): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+d:\vs项目\cachesever\cachesever\cachesever.cpp(160): warning C4018: “>=”: 有符号/无符号不匹配
+  cacheSever.vcxproj -> D:\vs项目\cacheSever\Debug\cacheSever.exe
